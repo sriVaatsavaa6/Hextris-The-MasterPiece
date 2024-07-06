@@ -3,7 +3,7 @@ Akshay Srivatsava
 ==========
 
 
-An addictive puzzle game inspired by Tetris. Play it at https://srivaatsavaa6.github.io/Hextris-The-MasterPiece/
+An addictive puzzle game inspired. Play it at https://srivaatsavaa6.github.io/Hextris-The-MasterPiece/
 
 By:
   Akshay Srivatsava
